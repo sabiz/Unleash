@@ -1,0 +1,6 @@
+{
+    // This is Sample configuration file
+    width: 1024,
+    height: 620,
+    app_url: "https://www.youtube.com"
+}
