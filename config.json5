@@ -2,5 +2,6 @@
     // This is Sample configuration file
     width: 1024,
     height: 620,
-    app_url: "https://www.youtube.com"
+    app_url: "https://www.youtube.com",
+    chrome: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
 }
